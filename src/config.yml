@@ -1,0 +1,9 @@
+host: ""
+port: 3306
+db: ""
+user: ""
+password: ""
+assistantTimeOut: 20
+timeOut: 180
+blockedWorld:
+  - 'hub'

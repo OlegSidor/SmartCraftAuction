@@ -1,0 +1,7 @@
+name: Auction
+main: smartcraft.auction.Main
+version: 1.0
+api-version: 1.14
+commands:
+    a:
+        usage: /a <args>
